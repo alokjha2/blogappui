@@ -3,7 +3,7 @@
 
 git init
 git add .
-git commit -m "screenshot attached"
+git commit -m "screenshot attached2"
 git branch -M main
 git remote add origin https://github.com/alokjha2/blogappui.git
 git push -u origin main

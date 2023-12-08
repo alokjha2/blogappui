@@ -31,15 +31,35 @@ samples, guidance on mobile development, and a full API reference.
     <td>Events Page</td>
     <td>GIF</td>
     <td>Calender Page</td>
-    <td>Calender Page</td>
-    <td>Calender Page</td>
+    <!-- <td>Calender Page</td>
+    <td>Calender Page</td> -->
   </tr>
   <tr>
     <td><img src="screenshots/screen_1.png" width=270 height=480></td>
     <td><img src="screenshots/screen_2.png" width=270 height=480></td>
     <td><img src="screenshots/screen_3.png" width=270 height=480></td>
-    <td><img src="screenshots/screen_3.png" width=270 height=480></td>
-    <td><img src="screenshots/screen_3.png" width=270 height=480></td>
+    <!-- <td><img src="screenshots/screen_3.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_3.png" width=270 height=480></td> -->
+  </tr>
+ </table>
+
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>Events Page</td>
+    <td>GIF</td>
+    <td>Calender Page</td>
+    <!-- <td>Calender Page</td>
+    <td>Calender Page</td> -->
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_4.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_5.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_6.png" width=270 height=480></td>
+    <!-- <td><img src="screenshots/screen_3.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_3.png" width=270 height=480></td> -->
   </tr>
  </table>
 

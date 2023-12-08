@@ -19,7 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 #### Concept UI
 
 <table>
-  <tr><td><img src = "screenshots/p0.jpg"></td></tr>
+  <tr><td><img src = "screenshots/screen_1.png"></td></tr>
+  <tr><td><img src = "screenshots/screen_2.png"></td></tr>
+  <tr><td><img src = "screenshots/screen_3.png"></td></tr>
  </table>
 
 #### Flutter App Screenshots

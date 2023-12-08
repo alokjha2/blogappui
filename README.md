@@ -33,9 +33,9 @@ samples, guidance on mobile development, and a full API reference.
      <td>Calender Page</td>
   </tr>
   <tr>
-    <!-- <td><img src="misc/1.png" width=270 height=480></td>
-    <td><img src="misc/GIF.gif" width=270 height=480></td>
-    <td><img src="misc/2.png" width=270 height=480></td> -->
+    <td><img src="screenshots/screen_1.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_2.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_3.png" width=270 height=480></td>
   </tr>
  </table>
 

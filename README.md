@@ -1,6 +1,6 @@
 # Blog App UI
 
-Blog app UI, neon design
+Blog app UI, neon design, here peter parker is peter thiel + sean parker,
 
 
 #### Screenshots

@@ -16,25 +16,29 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-#### Concept UI
+<!-- #### Concept UI -->
 
-<table>
+<!-- <table>
   <tr><td><img src = "screenshots/screen_1.png"></td></tr>
   <tr><td><img src = "screenshots/screen_2.png"></td></tr>
   <tr><td><img src = "screenshots/screen_3.png"></td></tr>
- </table>
+ </table> -->
 
 #### Flutter App Screenshots
 
 <table>
   <tr>
     <td>Events Page</td>
-     <td>GIF</td>
-     <td>Calender Page</td>
+    <td>GIF</td>
+    <td>Calender Page</td>
+    <td>Calender Page</td>
+    <td>Calender Page</td>
   </tr>
   <tr>
     <td><img src="screenshots/screen_1.png" width=270 height=480></td>
     <td><img src="screenshots/screen_2.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_3.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_3.png" width=270 height=480></td>
     <td><img src="screenshots/screen_3.png" width=270 height=480></td>
   </tr>
  </table>
